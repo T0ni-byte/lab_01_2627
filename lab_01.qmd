@@ -38,6 +38,7 @@ Sometimes there will be areas for you to edit. These will have _marked_ text tha
 
 ::: {.callout-note}
 Hi, my name is [_fill out your name here_]{.mark}.
+Hi, my name is [_Bob_]{.mark}.
 :::
 
 - [ ] Knit the document to check that the output looks okay.
