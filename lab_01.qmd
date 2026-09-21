@@ -37,7 +37,6 @@ Sometimes there will be areas for you to edit. These will have _marked_ text tha
 - [ ] Fill out your name in the box below.
 
 ::: {.callout-note}
-Hi, my name is [_Bob_]{.mark}.
 Hi, my name is [_Toni_]{.mark}.
 :::
 
